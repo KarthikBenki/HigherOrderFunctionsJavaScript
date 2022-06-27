@@ -1,2 +1,2 @@
 # HigherOrderFunctionsJavaScript
-map,reduce,filter
+map,reduce,filter.forEach
